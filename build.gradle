@@ -8,7 +8,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.VitalEngage'
             artifactId = 'library'
-            version = 'v1.0.2'
+            version = 'v1.0.3'
 
             artifact file('vitalengage.aar')
             packaging 'aar'
